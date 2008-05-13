@@ -11,7 +11,7 @@ end</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>should</string>
+	<string>sh</string>
 	<key>uuid</key>
 	<string>D8AB6BAF-153A-4134-9A46-B1273943F16D</string>
 </dict>
