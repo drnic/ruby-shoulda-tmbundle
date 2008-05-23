@@ -9,7 +9,7 @@
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>shm</string>
+	<string>shhm</string>
 	<key>uuid</key>
 	<string>43E1D56D-73E1-449B-A99B-8ECC4C438618</string>
 </dict>
