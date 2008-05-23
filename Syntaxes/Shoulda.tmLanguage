@@ -70,11 +70,11 @@
 		</dict>
 		<dict>
 			<key>include</key>
-			<string>source.ruby</string>
+			<string>source.ruby.rails</string>
 		</dict>
 		<dict>
 			<key>include</key>
-			<string>source.ruby.rails</string>
+			<string>source.ruby</string>
 		</dict>
 	</array>
 	<key>repository</key>
