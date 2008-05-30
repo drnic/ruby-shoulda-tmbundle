@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_ensure_value_in_range ${1:attribute}, (${2:range})</string>
+	<string>should_ensure_value_in_range :${1:attribute}, (${2:range})</string>
 	<key>name</key>
 	<string>should_ensure_value_in_range</string>
 	<key>scope</key>
