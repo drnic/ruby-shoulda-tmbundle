@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_require_unique_attributes ${1:attributes}</string>
+	<string>should_require_unique_attributes :${1:method}${2:, :${3:method}${4:, :${5:method}}}</string>
 	<key>name</key>
 	<string>should_require_unique_attributes</string>
 	<key>scope</key>
