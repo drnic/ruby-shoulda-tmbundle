@@ -18,9 +18,9 @@
 			<string>------------------------------------</string>
 			<string>9AD00D7F-EB66-431C-A3BD-13DEE32BA00F</string>
 			<string>D8AB6BAF-153A-4134-9A46-B1273943F16D</string>
+			<string>7F642DCE-BDA2-4630-8215-ECE11E31CC5F</string>
 			<string>3828AEAE-1702-4DED-9C14-5B6386E9F8CD</string>
 			<string>D8EAA0DE-71A2-4042-8961-9E6F883C50C9</string>
-			<string>7F642DCE-BDA2-4630-8215-ECE11E31CC5F</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -68,35 +68,18 @@
 				<key>name</key>
 				<string>Associations</string>
 			</dict>
-			<key>72A3897F-E677-4AC7-B77F-9A58286117C2</key>
-			<dict>
-				<key>items</key>
-				<array>
-					<string>4B75A76F-D56C-4B2D-A786-8EBDA6D21E12</string>
-					<string>B2C2BBCD-C38C-4A5D-853A-7226DC4C440F</string>
-				</array>
-				<key>name</key>
-				<string>Indices</string>
-			</dict>
 			<key>85B0BEB3-6C12-4F9E-852D-10BD5948427C</key>
-			<dict>
-				<key>items</key>
-				<array>
-					<string>99F4237A-B8A6-4515-B1B1-C731ECBCF54E</string>
-					<string>72A3897F-E677-4AC7-B77F-9A58286117C2</string>
-				</array>
-				<key>name</key>
-				<string>Database</string>
-			</dict>
-			<key>99F4237A-B8A6-4515-B1B1-C731ECBCF54E</key>
 			<dict>
 				<key>items</key>
 				<array>
 					<string>C8D9DE77-4B1F-4064-9410-E1B7F785095B</string>
 					<string>AFAFBE19-C52E-43F0-9B28-B8318134F18B</string>
+					<string>------------------------------------</string>
+					<string>4B75A76F-D56C-4B2D-A786-8EBDA6D21E12</string>
+					<string>B2C2BBCD-C38C-4A5D-853A-7226DC4C440F</string>
 				</array>
 				<key>name</key>
-				<string>Columns</string>
+				<string>Database</string>
 			</dict>
 			<key>D8EAA0DE-71A2-4042-8961-9E6F883C50C9</key>
 			<dict>
@@ -104,11 +87,14 @@
 				<array>
 					<string>1FB69312-1897-4A64-A7E8-F7B699F871B1</string>
 					<string>F50ED5FA-79F1-4854-BEE6-9F43E329A23B</string>
+					<string>ADCC3B5E-6AC0-4203-9142-C92554F2CD01</string>
 					<string>84EF6B11-A96D-4964-90ED-D1E7123107D7</string>
 					<string>E9F561DC-64C6-49E1-8F18-CFD1389579B4</string>
 					<string>FAD1A46E-E71E-46E7-9F12-D83DE6F3290E</string>
+					<string>------------------------------------</string>
 					<string>3072E3F8-22C5-467E-BE8C-8C14DF4308A7</string>
 					<string>436D0EC3-9F61-46E7-9A86-C775D4515DB5</string>
+					<string>------------------------------------</string>
 					<string>E3A9360A-3177-41C4-B21B-B1411282FB16</string>
 					<string>9CD1EAE0-503A-4A47-86C8-3FC2D6868B88</string>
 				</array>
