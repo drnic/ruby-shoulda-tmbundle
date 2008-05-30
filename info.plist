@@ -28,26 +28,54 @@
 			<dict>
 				<key>items</key>
 				<array>
+					<string>66D91DE2-49EB-443A-A731-95164694C0A9</string>
+					<string>64695CAF-E89A-4C3F-BFD1-BEB52BC0E8C4</string>
+					<string>85B0BEB3-6C12-4F9E-852D-10BD5948427C</string>
+				</array>
+				<key>name</key>
+				<string>Models</string>
+			</dict>
+			<key>64695CAF-E89A-4C3F-BFD1-BEB52BC0E8C4</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>F312BABE-A19D-4451-A714-4FA4127AD2DD</string>
+					<string>38012D12-1485-13A6-56701D95CBCE3780</string>
+					<string>279BC6CF-139C-486A-ADD3-59E7D1BFC412</string>
+					<string>D80B7236-B3A8-4E47-B70D-57F5561419D7</string>
+					<string>6D66108D-9C49-4B89-A0AE-66A3BDC75EDA</string>
+					<string>D69EC326-DE43-4757-8375-54DDFC6894ED</string>
+					<string>DBD55A6E-FEF4-4E5F-9F78-30D9ECC3FDB0</string>
+					<string>B318649B-FA23-4BC3-8405-295D6E8D461C</string>
+					<string>------------------------------------</string>
+					<string>BEC0BD89-6425-4547-9FF2-9BB35A2FAA58</string>
+					<string>5827CC16-B6E8-4293-A3CB-3969E5062C43</string>
+					<string>7E8F2C3E-9490-44CA-A527-A329398064BD</string>
+				</array>
+				<key>name</key>
+				<string>Validations</string>
+			</dict>
+			<key>66D91DE2-49EB-443A-A731-95164694C0A9</key>
+			<dict>
+				<key>items</key>
+				<array>
 					<string>AFAC9DA9-19C9-417C-8F6D-C8757450E1A8</string>
 					<string>91843C06-640F-4199-93B8-32D196350AE4</string>
 					<string>43E1D56D-73E1-449B-A99B-8ECC4C438618</string>
 					<string>5595BC8B-3932-407A-9457-968A96662D2C</string>
-					<string>------------------------------------</string>
-					<string>B318649B-FA23-4BC3-8405-295D6E8D461C</string>
-					<string>DBD55A6E-FEF4-4E5F-9F78-30D9ECC3FDB0</string>
-					<string>F312BABE-A19D-4451-A714-4FA4127AD2DD</string>
-					<string>6D66108D-9C49-4B89-A0AE-66A3BDC75EDA</string>
-					<string>D69EC326-DE43-4757-8375-54DDFC6894ED</string>
-					<string>279BC6CF-139C-486A-ADD3-59E7D1BFC412</string>
-					<string>38012D12-1485-13A6-56701D95CBCE3780</string>
-					<string>D80B7236-B3A8-4E47-B70D-57F5561419D7</string>
-					<string>BEC0BD89-6425-4547-9FF2-9BB35A2FAA58</string>
-					<string>5827CC16-B6E8-4293-A3CB-3969E5062C43</string>
-					<string>7E8F2C3E-9490-44CA-A527-A329398064BD</string>
-					<string>C8D9DE77-4B1F-4064-9410-E1B7F785095B</string>
 				</array>
 				<key>name</key>
-				<string>active record helpers</string>
+				<string>Associations</string>
+			</dict>
+			<key>85B0BEB3-6C12-4F9E-852D-10BD5948427C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>C8D9DE77-4B1F-4064-9410-E1B7F785095B</string>
+					<string>AFAFBE19-C52E-43F0-9B28-B8318134F18B</string>
+				</array>
+				<key>name</key>
+				<string>Migrations</string>
 			</dict>
 			<key>D8EAA0DE-71A2-4042-8961-9E6F883C50C9</key>
 			<dict>
@@ -64,7 +92,7 @@
 					<string>9CD1EAE0-503A-4A47-86C8-3FC2D6868B88</string>
 				</array>
 				<key>name</key>
-				<string>controller tests</string>
+				<string>Controllers</string>
 			</dict>
 		</dict>
 	</dict>
