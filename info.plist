@@ -18,9 +18,9 @@
 			<string>------------------------------------</string>
 			<string>9AD00D7F-EB66-431C-A3BD-13DEE32BA00F</string>
 			<string>D8AB6BAF-153A-4134-9A46-B1273943F16D</string>
-			<string>7EA059BA-1B66-4719-8B5D-9C5A38C425CB</string>
 			<string>3828AEAE-1702-4DED-9C14-5B6386E9F8CD</string>
 			<string>D8EAA0DE-71A2-4042-8961-9E6F883C50C9</string>
+			<string>7F642DCE-BDA2-4630-8215-ECE11E31CC5F</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -44,6 +44,7 @@
 					<string>BEC0BD89-6425-4547-9FF2-9BB35A2FAA58</string>
 					<string>5827CC16-B6E8-4293-A3CB-3969E5062C43</string>
 					<string>7E8F2C3E-9490-44CA-A527-A329398064BD</string>
+					<string>C8D9DE77-4B1F-4064-9410-E1B7F785095B</string>
 				</array>
 				<key>name</key>
 				<string>active record helpers</string>
@@ -61,7 +62,6 @@
 					<string>436D0EC3-9F61-46E7-9A86-C775D4515DB5</string>
 					<string>E3A9360A-3177-41C4-B21B-B1411282FB16</string>
 					<string>9CD1EAE0-503A-4A47-86C8-3FC2D6868B88</string>
-					<string>95BDBF3F-B3F4-44E4-8404-E8B1190FCB93</string>
 				</array>
 				<key>name</key>
 				<string>controller tests</string>
