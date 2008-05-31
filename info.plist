@@ -19,6 +19,7 @@
 			<string>9AD00D7F-EB66-431C-A3BD-13DEE32BA00F</string>
 			<string>D8AB6BAF-153A-4134-9A46-B1273943F16D</string>
 			<string>7F642DCE-BDA2-4630-8215-ECE11E31CC5F</string>
+			<string>90DAB123-FBEB-4355-91E6-47A069B3E071</string>
 			<string>3828AEAE-1702-4DED-9C14-5B6386E9F8CD</string>
 			<string>D8EAA0DE-71A2-4042-8961-9E6F883C50C9</string>
 		</array>
@@ -80,6 +81,22 @@
 				</array>
 				<key>name</key>
 				<string>Database</string>
+			</dict>
+			<key>90DAB123-FBEB-4355-91E6-47A069B3E071</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>5EC9E215-BA9F-44BC-9D77-75FAC5D115C6</string>
+					<string>C752E6BD-19C6-4BC5-A4E3-A3B266CF6B68</string>
+					<string>F0EFD353-3EE5-45B9-A48B-EF6186977D19</string>
+					<string>------------------------------------</string>
+					<string>4268D9B3-8505-4CD2-8FF3-2AF4121C8CA6</string>
+					<string>52607A32-8E8A-4A8F-9B8D-C370206E2B10</string>
+					<string>------------------------------------</string>
+					<string>36AB5D03-388A-4E5E-A43D-046356C65A67</string>
+				</array>
+				<key>name</key>
+				<string>Assertions</string>
 			</dict>
 			<key>D8EAA0DE-71A2-4042-8961-9E6F883C50C9</key>
 			<dict>
