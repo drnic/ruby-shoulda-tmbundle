@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_have_many :${1:objects}${2:, :through =&gt; :${3:association}}</string>
+	<string>should_have_many :${1:objects}${2:${3:, :through =&gt; :${4:association}}${5:, :dependent =&gt; :${6:destroy}}}$0</string>
 	<key>name</key>
 	<string>should_have_many</string>
 	<key>scope</key>
