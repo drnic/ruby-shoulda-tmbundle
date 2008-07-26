@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>shuold_set_the_flash_to ${1:value}</string>
+	<string>should_set_the_flash_to ${1:value}</string>
 	<key>name</key>
 	<string>should_set_the_flash_to</string>
 	<key>scope</key>
