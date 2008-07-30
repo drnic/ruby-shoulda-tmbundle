@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory.define :${1:model}${2:, { :class =&gt; ${3:ClassName} \}} do |f|
+	<string>Factory.define :${1:model}${2:, :class =&gt; ${3:ClassName}} do |f|
   f.$0
 end</string>
 	<key>name</key>
