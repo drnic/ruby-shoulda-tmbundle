@@ -16,6 +16,7 @@
 			<string>2989704F-8F6B-439F-83A7-368BB174A010</string>
 			<string>576CC2C5-2257-4F46-A6CE-E23C6A8B1128</string>
 			<string>------------------------------------</string>
+			<string>5A44EEB6-CCEE-4715-BE80-27DC488EEB69</string>
 			<string>9AD00D7F-EB66-431C-A3BD-13DEE32BA00F</string>
 			<string>------------------------------------</string>
 			<string>D8AB6BAF-153A-4134-9A46-B1273943F16D</string>
@@ -184,6 +185,7 @@
 	<string>Ruby Shoulda</string>
 	<key>ordering</key>
 	<array>
+		<string>5A44EEB6-CCEE-4715-BE80-27DC488EEB69</string>
 		<string>9AD00D7F-EB66-431C-A3BD-13DEE32BA00F</string>
 		<string>4A3A371D-8037-4370-8C81-658A1E355F8F</string>
 		<string>CFF59EC4-3F70-4593-9697-34241653E003</string>
