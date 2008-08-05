@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_ensure_length_at_least :${1:attribute}, ${2:min_length}</string>
+	<string>should_ensure_length_is :${1:attribute}, ${2:length}</string>
 	<key>name</key>
-	<string>should_ensure_length_at_least</string>
+	<string>should_ensure_length_is</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
 	<string>shel</string>
 	<key>uuid</key>
-	<string>38012D12-1485-13A6-56701D95CBCE3780</string>
+	<string>1954ED62-6BB5-4906-B178-45D639FD4101</string>
 </dict>
 </plist>
