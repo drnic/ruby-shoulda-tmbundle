@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_require_unique_attributes :${1:method}${2:, :${3:method}${4:, :${5:method}}}</string>
+	<string>should_not_change "${1:Model.count}"</string>
 	<key>name</key>
-	<string>should_require_unique_attributes</string>
+	<string>should_not_change</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>shrua</string>
+	<string>shnc</string>
 	<key>uuid</key>
-	<string>B318649B-FA23-4BC3-8405-295D6E8D461C</string>
+	<string>108313B5-1B3C-4099-9C8C-FEB071DE6890</string>
 </dict>
 </plist>

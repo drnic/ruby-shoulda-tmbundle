@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_redirect_to ${1:url}</string>
+	<string>should_redirect_to ${1:${2:user}s_url(@$2)}</string>
 	<key>name</key>
 	<string>should_redirect_to</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>shre</string>
+	<string>shrt</string>
 	<key>uuid</key>
-	<string>CC4F66D9-0E07-4BA4-8F65-2C4FF730CBF9</string>
+	<string>213E7120-B580-4C77-BD67-ACDC70A5D100</string>
 </dict>
 </plist>

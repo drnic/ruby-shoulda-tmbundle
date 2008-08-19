@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_require_unique_attributes :${1:method}${2:, :${3:method}${4:, :${5:method}}}</string>
+	<string>load_all_fixtures</string>
 	<key>name</key>
-	<string>should_require_unique_attributes</string>
+	<string>load_all_fixtures</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>shrua</string>
+	<string>laf</string>
 	<key>uuid</key>
-	<string>B318649B-FA23-4BC3-8405-295D6E8D461C</string>
+	<string>5A44EEB6-CCEE-4715-BE80-27DC488EEB69</string>
 </dict>
 </plist>

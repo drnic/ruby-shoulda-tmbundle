@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_require_unique_attributes :${1:method}${2:, :${3:method}${4:, :${5:method}}}</string>
+	<string>assert_same_elements(${1:array1}, ${2:array2}${3:, "${4:message}"})</string>
 	<key>name</key>
-	<string>should_require_unique_attributes</string>
+	<string>assert_same_elements</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>shrua</string>
+	<string>asse</string>
 	<key>uuid</key>
-	<string>B318649B-FA23-4BC3-8405-295D6E8D461C</string>
+	<string>F0EFD353-3EE5-45B9-A48B-EF6186977D19</string>
 </dict>
 </plist>
