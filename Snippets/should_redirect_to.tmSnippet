@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_set_the_flash_to ${1:value}</string>
+	<string>should_redirect_to ${1:url}</string>
 	<key>name</key>
-	<string>should_set_the_flash_to</string>
+	<string>should_redirect_to</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>shstft</string>
+	<string>shre</string>
 	<key>uuid</key>
-	<string>E3A9360A-3177-41C4-B21B-B1411282FB16</string>
+	<string>CC4F66D9-0E07-4BA4-8F65-2C4FF730CBF9</string>
 </dict>
 </plist>
