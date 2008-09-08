@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>load_all_fixtures</string>
+	<string>before_should "$1" do
+  $0
+end</string>
 	<key>name</key>
-	<string>load_all_fixtures</string>
+	<string>before_should block</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>laf</string>
+	<string>bsh</string>
 	<key>uuid</key>
-	<string>5A44EEB6-CCEE-4715-BE80-27DC488EEB69</string>
+	<string>1C1A512C-41C9-4A59-AD99-BFD831E9196B</string>
 </dict>
 </plist>
