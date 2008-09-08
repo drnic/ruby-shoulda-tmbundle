@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Factory.define :${1:model} do |f|
-  f.$0
-end</string>
+	<string>Factory.build(:${1:model})</string>
 	<key>name</key>
-	<string>Factory.define</string>
+	<string>Factory build</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>facd</string>
+	<string>facb</string>
 	<key>uuid</key>
-	<string>AB5CDA49-1BF3-477C-82FE-2A7F1B6B9ED2</string>
+	<string>93DB4382-3BD8-4049-9422-1BD0611B3F94</string>
 </dict>
 </plist>

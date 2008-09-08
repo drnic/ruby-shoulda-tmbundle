@@ -11,7 +11,7 @@ end</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>facc</string>
+	<string>facd</string>
 	<key>uuid</key>
 	<string>82E2214D-3457-42AE-A25B-DC90A270EFE4</string>
 </dict>
