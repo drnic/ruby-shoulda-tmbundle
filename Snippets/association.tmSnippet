@@ -10,7 +10,7 @@ f.$0</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>fa</string>
+	<string>f.a</string>
 	<key>uuid</key>
 	<string>71757FAE-3E48-4347-A1FD-D3FBBF3F717B</string>
 </dict>
