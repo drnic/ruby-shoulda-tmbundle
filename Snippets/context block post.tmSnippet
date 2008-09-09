@@ -8,9 +8,9 @@
     post :$1, :${2:user} =&gt; { ${3::${4:key} =&gt; ${5:value}${6:, :${7:key} =&gt; ${8:value}}} }
   end
 
-  should "${9:description}" do
+  ${9:should "${10:description}" do
     $0
-  end
+  end}
 end
 </string>
 	<key>name</key>
