@@ -5,14 +5,13 @@
 	<key>content</key>
 	<string>context "on GET to :${1:show}" do
   setup do
-    get :$1, :id =&gt; ${2:1}
+    get :$1${2:, :id =&gt; ${3:1}}
   end
 
-  should "${3:description}" do
+  should "${4:description}" do
     $0
   end
-end
-</string>
+end</string>
 	<key>name</key>
 	<string>context block get</string>
 	<key>scope</key>
