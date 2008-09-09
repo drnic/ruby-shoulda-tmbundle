@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_change "${1:Model.count}"${2:${3:, :from =&gt; ${4:old_value}}${5:, :to =&gt; ${6:new_value}}}</string>
+	<string>should_change "${1:${2:Model}.${3:count}}"${4:${5:, :from =&gt; ${6:old_value}}${7:, :to =&gt; ${8:new_value}}}</string>
 	<key>name</key>
 	<string>should_change from to</string>
 	<key>scope</key>
