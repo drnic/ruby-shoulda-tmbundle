@@ -8,9 +8,9 @@
     get :$1${2:, :id =&gt; ${3:1}}
   end
 
-  should "${4:description}" do
+  ${4:should "${5:description}" do
     $0
-  end
+  end}
 end</string>
 	<key>name</key>
 	<string>context block get</string>
