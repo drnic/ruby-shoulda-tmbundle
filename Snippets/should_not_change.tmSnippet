@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_not_change "${1:Model.count}"</string>
+	<string>should_not_change "${1:Model}.${2:count}"</string>
 	<key>name</key>
 	<string>should_not_change</string>
 	<key>scope</key>
