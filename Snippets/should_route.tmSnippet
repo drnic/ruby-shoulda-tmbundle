@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_respond_with :${1:success}</string>
+	<string>should_route :${1:get|post|put|delete}, '${2:/posts}'${3:, :controller =&gt; :${4:posts}}${5:, :action =&gt; :${6:create}}${7:, :id =&gt; ${8:1}}</string>
 	<key>name</key>
-	<string>should_respond_with</string>
+	<string>should_route</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>shrw</string>
+	<string>shr</string>
 	<key>uuid</key>
-	<string>FAD1A46E-E71E-46E7-9F12-D83DE6F3290E</string>
+	<string>40F75860-994B-4E9E-9879-97CE97EF1FE3</string>
 </dict>
 </plist>
