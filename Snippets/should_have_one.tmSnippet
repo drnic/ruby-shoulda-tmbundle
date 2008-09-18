@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_have_one :${1:object}</string>
+	<string>should_have_one :${1:object}${2:, :dependent =&gt; :${3:destroy}}</string>
 	<key>name</key>
 	<string>should_have_one</string>
 	<key>scope</key>
