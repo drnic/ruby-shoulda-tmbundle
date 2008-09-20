@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_assign_to :${1:name}${2:, :class =&gt; ${3:Model}}</string>
+	<string>should_assign_to :${1:name}${2:${3:, :class =&gt; ${4:Model}}${5:, :equals =&gt; '${6:@$1}'}}</string>
 	<key>name</key>
 	<string>should_assign_to</string>
 	<key>scope</key>
