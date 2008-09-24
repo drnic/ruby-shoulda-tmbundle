@@ -139,6 +139,16 @@
 				<key>name</key>
 				<string>Database</string>
 			</dict>
+			<key>892AB0BE-0963-4B50-B341-2B9E1BC7A6CB</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>E3A9360A-3177-41C4-B21B-B1411282FB16</string>
+					<string>9CD1EAE0-503A-4A47-86C8-3FC2D6868B88</string>
+				</array>
+				<key>name</key>
+				<string>Flash</string>
+			</dict>
 			<key>90DAB123-FBEB-4355-91E6-47A069B3E071</key>
 			<dict>
 				<key>items</key>
@@ -187,8 +197,7 @@
 					<string>3072E3F8-22C5-467E-BE8C-8C14DF4308A7</string>
 					<string>436D0EC3-9F61-46E7-9A86-C775D4515DB5</string>
 					<string>------------------------------------</string>
-					<string>E3A9360A-3177-41C4-B21B-B1411282FB16</string>
-					<string>9CD1EAE0-503A-4A47-86C8-3FC2D6868B88</string>
+					<string>892AB0BE-0963-4B50-B341-2B9E1BC7A6CB</string>
 					<string>------------------------------------</string>
 					<string>6CF2F8CC-F6B1-480E-849D-AB9F646E90EF</string>
 				</array>
