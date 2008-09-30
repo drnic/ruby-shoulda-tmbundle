@@ -4,9 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>context "on GET to :${1:show}" do
-  setup do
-    get :$1${2:, :id =&gt; ${3:1}}
-  end
+  setup { get :$1${2:, :id =&gt; ${3:1}} }
 
   ${4:should "${5:description}" do
     $0

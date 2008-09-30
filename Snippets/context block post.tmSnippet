@@ -4,9 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>context "on POST to :${1:create}" do
-  setup do
-    post :$1, :${2:user} =&gt; { ${3::${4:key} =&gt; ${5:value}${6:, :${7:key} =&gt; ${8:value}}} }
-  end
+  setup { post :$1, :${2:user} =&gt; { ${3::${4:key} =&gt; ${5:value}${6:, :${7:key} =&gt; ${8:value}}} } }
 
   ${9:should "${10:description}" do
     $0
