@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_render_with_layout ${1:'${2:layout}'}</string>
+	<string>should_return_from_session :${1:user}, "${2:@${3:${1}}}"</string>
 	<key>name</key>
-	<string>should_render_with_layout</string>
+	<string>should_return_from_session</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>shrl</string>
+	<string>shrfs</string>
 	<key>uuid</key>
-	<string>992B2958-BD72-4E07-9627-957CD321D711</string>
+	<string>6B8F56ED-F4BE-4D92-A0D8-11E79DEDF31E</string>
 </dict>
 </plist>
