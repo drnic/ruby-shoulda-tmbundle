@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_route :${1:get|post|put|delete}, '${2:/posts}'${3:, :controller =&gt; :${4:posts}}${5:, :action =&gt; :${6:create}}${7:, :id =&gt; ${8:1}}</string>
+	<string>should_route :${1:get|post|put|delete}, "${2:/posts}"${3:, :controller =&gt; :${4:posts}}${5:, :action =&gt; :${6:create}}${7:, :id =&gt; ${8:1}}</string>
 	<key>name</key>
 	<string>should_route</string>
 	<key>scope</key>
