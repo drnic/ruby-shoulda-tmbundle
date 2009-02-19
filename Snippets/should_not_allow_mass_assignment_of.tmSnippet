@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_only_allow_numeric_values_for :${1:attribute}</string>
+	<string>should_not_allow_mass_assignment_of :${1:attribute}${2:, :${3:attribute}${4:, :${5:attribute}}}</string>
 	<key>name</key>
-	<string>should_only_allow_numeric_values_for</string>
+	<string>should_not_allow_mass_assignment_of</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>shoanvf</string>
+	<string>shnamao</string>
 	<key>uuid</key>
-	<string>D69EC326-DE43-4757-8375-54DDFC6894ED</string>
+	<string>7E8F2C3E-9490-44CA-A527-A329398064BD</string>
 </dict>
 </plist>

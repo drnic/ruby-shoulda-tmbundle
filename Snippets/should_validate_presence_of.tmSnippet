@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_require_attributes :${1:method}${2:, :${3:method}${4:, :${5:method}}}</string>
+	<string>should_validate_presence_of :${1:method}${2:, :${3:method}${4:, :${5:method}}}</string>
 	<key>name</key>
-	<string>should_require_attributes</string>
+	<string>should_validate_presence_of</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>shra</string>
+	<string>shvpo</string>
 	<key>uuid</key>
 	<string>DBD55A6E-FEF4-4E5F-9F78-30D9ECC3FDB0</string>
 </dict>

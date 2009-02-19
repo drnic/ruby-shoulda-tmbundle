@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should_require_acceptance_of :${1:attribute}</string>
+	<string>should_validate_acceptance_of :${1:attribute}</string>
 	<key>name</key>
-	<string>should_require_acceptance_of</string>
+	<string>should_validate_acceptance_of</string>
 	<key>scope</key>
 	<string>source.ruby.rails.shoulda</string>
 	<key>tabTrigger</key>
-	<string>shrao</string>
+	<string>shvao</string>
 	<key>uuid</key>
 	<string>D6C46A2F-48F1-4D25-A763-F89D5E630809</string>
 </dict>
