@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Factory build</string>
 	<key>scope</key>
-	<string>source.ruby.rails.shoulda</string>
+	<string>source.ruby.rails.shoulda, meta.rails.unit_test</string>
 	<key>tabTrigger</key>
 	<string>facb</string>
 	<key>uuid</key>
