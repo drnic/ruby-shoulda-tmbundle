@@ -7,7 +7,7 @@
 	<key>name</key>
 	<string>Factory attributes for</string>
 	<key>scope</key>
-	<string>source.ruby.rails.shoulda, meta.rails.unit_test</string>
+	<string>source.ruby.rails.shoulda, meta.rails.unit_test, meta.rails.functional_test</string>
 	<key>tabTrigger</key>
 	<string>faca</string>
 	<key>uuid</key>
